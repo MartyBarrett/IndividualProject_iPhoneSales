@@ -1,6 +1,6 @@
 # 📊 iPhone Sales Analysis
 COMP3125 Individual Project – Spring 2025  
-Author: Martin W Barrettt  
+Author: Martin W Barrett  
 School of Computing and Data Science
 
 ## 🔍 Project Overview
